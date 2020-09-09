@@ -1,7 +1,0 @@
--------------------------------------------------------------------------------
-Test set: guru.springframework.sfgpetclinic.SfgPetClinicApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.489 s <<< FAILURE! - in guru.springframework.sfgpetclinic.SfgPetClinicApplicationTests
-initializationError(guru.springframework.sfgpetclinic.SfgPetClinicApplicationTests)  Time elapsed: 0.006 s  <<< ERROR!
-java.lang.Exception: Method contextLoads() should be public
-
