@@ -1,4 +1,4 @@
-package guru.springframework.sfgpetclinic;
+package sfgpetclinic;
 
 public class SomeController {
 
